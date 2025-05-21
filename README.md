@@ -1,5 +1,5 @@
 # 👋 Hi, I'm KD
-A passionate Software Developer. 
+A Passionate Software Developer. 
 
 ## 🛠️ Tech Stack I Work With:
 
