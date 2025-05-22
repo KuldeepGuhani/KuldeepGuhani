@@ -5,7 +5,7 @@ A Passionate Software Developer.
 
   - Languages: Java ♨️ | JavaScript ⚡ | TypeScript 🇹
   - Backend:  Spring Boot 🍃 | Micro Services | Java J2EE 
-  - Frontend: Angular, HTML5, CSS3, Bootstrap
+  - Frontend: ANGULAR 10+, HTML5, CSS3, Bootstrap
   - Database: MySQL 🗄️ | MariaDB
   - Tools: Git 🧰 | GitHub 🖥️ | VS Code | Vim
 
