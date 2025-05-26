@@ -19,7 +19,6 @@ A Passionate Software Developer.
 ## 🧠 Currently Learning
 - Advanced Spring Boot Projects
 - Real-time Angular Development
-- DSA (Data Structure and Algorithms) 
 
 ## 📫 How to reach me:
 [LinkedIn](https://www.linkedin.com/in/kuldeep-guhani-9a1848207) | [Email](guhanikuldeep840@gmail.com)
