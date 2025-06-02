@@ -1,7 +1,7 @@
 # 👋 Hi, I'm KD
 A Passionate Software Developer. 
 
-## 🛠️ Tech Stack I Work With:
+## 🛠️ Tech Stack I Work With: 
 
   - Languages: Java ♨️ | JavaScript ⚡ | TypeScript 🇹
   - Backend:  Spring Boot 🍃 | Micro Services | Java J2EE 
