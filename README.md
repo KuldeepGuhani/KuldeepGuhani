@@ -4,7 +4,7 @@ A Passionate Software Developer.
 ## 🛠️ Tech Stack I Work With: 
 
   - Languages: Java ♨️ | JavaScript ⚡ | TypeScript 🇹
-  - Backend:  Spring Boot 🍃 | Micro Services | Java J2EE 
+  - Backend:  Java J2EE | Spring Boot 🍃 | Jwt/oAuth Implementation | Micro Services  | CI/CD Pipeline Using Jenkins | Apache Kafka 
   - Frontend: Angular 10+, HTML5, CSS3, Bootstrap
   - Database: MySQL 🗄️ | MariaDB
   - Tools: Git 🧰 | GitHub 🖥️ | VS Code | Vim
